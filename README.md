@@ -1,4 +1,4 @@
-# Theoretical_Physics
+# 张皖湘 Wanxiang Zhang's Notes on Theoretical_Physics
 Mechanics, electrodynamics, quantum mechanics, statistical mechanics, condensed matter theory, classical theory of fields, quantum field theory, etc. Everything about _theoretical physics_ that I know!
 
 I will update gradually but it depends on whether I have time or not :)
